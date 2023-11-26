@@ -2,7 +2,7 @@
 Show all my friends on maimai DX net, at the same time (no pagination)
 
 ## Install
-1. Add `what-is-mai-name.userscript.js` into your favourite userscript manager
+1. Add `all-mai-friends.userscript.js` into your favourite userscript manager
 2. Done
 
 ## Result
